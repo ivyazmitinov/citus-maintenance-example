@@ -1,0 +1,1 @@
+CREATE DATABASE no_citus_database;

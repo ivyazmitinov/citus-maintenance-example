@@ -1,0 +1,1 @@
+CALL execute_on_databases_with_citus($cmd$ALTER EXTENSION CITUS UPDATE$cmd$);
